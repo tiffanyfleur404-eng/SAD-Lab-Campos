@@ -1,0 +1,6 @@
+{
+  "name": "Student Record Management System",
+  "description": "Modern, responsive student record management system with Supabase backend, full CRUD, search, program filters, analytics, and sample record seeding.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

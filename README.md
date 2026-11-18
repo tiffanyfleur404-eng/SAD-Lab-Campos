@@ -1,11 +1,17 @@
-<div align="center">
+# Student Record Management System (EduRecord Pro)
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+A simple cloud-connected CRUD web application built for the Systems Analysis and Design (SAD) Laboratory Exercise.
 
-  <h1>Built with AI Studio</h2>
+## Features
+- **Create:** Add new student records (Student ID, Full Name, Program, Year Level, Email) with input validation.
+- **Read:** View, search, and filter all saved student records in real time.
+- **Update:** Edit existing student details with instant cloud synchronization.
+- **Delete:** Remove student records with a confirmation prompt before deletion.
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+## Tech Stack & Database
+- **Frontend:** React, TypeScript, Tailwind CSS
+- **Cloud Database:** Supabase (PostgreSQL)
+- **Deployment:** Google AI Studio / Vercel / Netlify
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
-
-</div>
+## Developer
+- jahaziel joy campos
