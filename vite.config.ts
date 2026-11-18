@@ -4,9 +4,9 @@ import fs from 'fs';
 import path from 'path';
 import {defineConfig} from 'vite';
 
-export default defineConfig(({ mode }) => {
+export default defineConfig(() => {
   return {
-    base: mode === 'production' ? './' : '/',
+    base: './',
     plugins: [
       react(),
       tailwindcss(),
